@@ -8,12 +8,10 @@
   <remove-node path="/api/package[@name='android.support.v4.content']/class[@name='CursorLoader']/method[@name='loadInBackground']" />
   -->
 	<remove-node path="/api/package[@name='okhttp3.internal']" />
-	<remove-node path="/api/package[@name='okhttp3.internal.cache']" />
 	<remove-node path="/api/package[@name='okhttp3.internal.connection']" />
 	<remove-node path="/api/package[@name='okhttp3.internal.http']" />
 	<remove-node path="/api/package[@name='okhttp3.internal.http1']" />
 	<remove-node path="/api/package[@name='okhttp3.internal.http2']" />
-	<remove-node path="/api/package[@name='okhttp3.internal.io']" />
 	<remove-node path="/api/package[@name='okhttp3.internal.platform']" />
 	<remove-node path="/api/package[@name='okhttp3.internal.tls']" />
 	<remove-node path="/api/package[@name='okhttp3.internal.ws']" />

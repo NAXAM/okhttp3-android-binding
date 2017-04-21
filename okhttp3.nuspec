@@ -3,13 +3,13 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.SquareUp.OkHttp3</id>
-        <version>3.6.0</version>
+        <version>3.7.0</version>
         <description>Xamarin Binding Library - Square OkHttp3</description>
         <authors>Vu Duc Tuyen</authors>
         <owners>NAXAM CO.,LTD</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - Square OkHttp3</title>
-        <releaseNotes>Square OkHttp3 v3.6.0</releaseNotes>
+        <releaseNotes>Square OkHttp3 v3.7.0</releaseNotes>
         <summary>Xamarin Binding Library - Square OkHttp3</summary>
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
         <projectUrl>https://github.com/NAXAM/xam-okhttp3</projectUrl>
